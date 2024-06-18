@@ -1,0 +1,60 @@
+{   "mainbalance": "₹ 5000",
+    "expenses": {
+        
+        "crio" : [
+
+            {
+                "accountbalance": "₹ 5000"
+            },
+            {
+                "name": "Samosa",
+                "price": "₹ 150",
+                "category": "Food",
+                "date": "March 20,2024"
+            },
+            {
+                "name": "Move",
+                "price": "₹ 300",
+                "category": "Entertainment",
+                "date": "March 21,2024"
+            },
+            {
+                "name" : "Auto",
+                "price" : "₹ 50",
+                "category": "Transport",
+                "date": "March 22,2024"
+            }
+
+        ],
+        "Tejaswini" : [
+            { "accountbalance": "₹ 10,000"},
+            {
+                "name" : "Shawarma",
+                "price" : "₹ 100",
+                "category": "Food",
+                "date": "May 17,2024"
+            },
+            {
+                "name" : "Bus Ticket",
+                "price" : "₹ 800",
+                "category" :"Transport",
+                "date" :"May 25,2024"
+            },
+            {
+                "name" : "Hotel",
+                "price" : "₹ 1500",
+                "category" : "Transport",
+                "date" :"May 26,2024"
+            },
+            {
+                "name" : "Food poision",
+                "price" : "₹ 2000",
+                "category" : "Health",
+                "date" :"May 27,2024"
+
+            }
+        ]
+    }
+        
+    
+}
